@@ -67,6 +67,7 @@ li a:hover {
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: repeat(4, 12.5rem);
     gap: .5rem;
+    height: 200vh;
 }
 .gallery_image {
     width: 100%;
